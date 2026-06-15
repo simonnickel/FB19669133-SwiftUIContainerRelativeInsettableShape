@@ -22,4 +22,5 @@ The example shows the a ContentView which applies a MyInsettableShape as .contai
 
     - Xcode Version 26.0 beta 5 (17A5295f) on iOS 26.0 beta 5 (23A5308f)
     - Xcode Version 26.0 (17A324) on iOS 26.0 (23A339) 
-    - Xcode Version 26.5 (17F42)) on iOS 26.5 (23F77) 
+    - Xcode Version 26.5 (17F42) on iOS 26.5 (23F77)
+    - Xcode Version 27.0 beta (27A5194q) on iOS 27.0 beta (24A5355p)             
